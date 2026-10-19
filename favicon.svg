@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="13" fill="#800020"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#DAA520" stroke-width="1.2"/>
+  <circle cx="32" cy="32" r="19.5" fill="none" stroke="#DAA520" stroke-width="0.5" opacity="0.65"/>
+  <path d="M22 27c3 2.1 6.7 2.1 10 0 3.3 2.1 6.7 2.1 10 0M22 33c3 2.1 6.7 2.1 10 0 3.3 2.1 6.7 2.1 10 0" fill="none" stroke="#DAA520" stroke-width="0.8" stroke-linecap="round"/>
+  <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="1.4" fill="#FAFAFA">PVB</text>
+</svg>
